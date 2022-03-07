@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Experience
-permalink: /experience/
+permalink: /experience2/
 ---
 1. Packed food for underprivileged people all over the world (Children's Hunger Fund)
 2. Assisted kids with disabilities practice baseball skills and simulate baseball games (Heroes Baseball)
