@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Volunteer/Leadership Experience
+title: Experience
 permalink: /expe/
 ---
 1. Packed food for underprivileged people from all over the world (Children's Hunger Fund)
